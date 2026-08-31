@@ -1,0 +1,6 @@
+{
+  "drive_folder": "~/Library/CloudStorage/GoogleDrive-you@gmail.com/My Drive/imessage-bridge",
+  "poll_interval_seconds": 60,
+  "export_batch_limit": 500,
+  "inbox_keep": 2000
+}
